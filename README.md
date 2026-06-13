@@ -1,1 +1,1 @@
-A full-stack blog application powered by a custom-built REST API. Features include creating, reading, updating, and deleting blog posts while demonstrating REST principles and Express.js backend development.
+A full-stack blog application powered by a custom-built REST API. Features include creating, reading, updating, and deleting blog posts while demonstrating REST principles and Node and Express.js backend development.
